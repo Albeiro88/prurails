@@ -1,6 +1,6 @@
 # Mi Aplicaion en Rails
 
-Esta es una appp hecvha en rails 
+Esta es una appp hecha en rails 
 
 [*Roco*](https://www.google.com)
 
